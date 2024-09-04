@@ -21,7 +21,7 @@ I worked collaboratively with fellow developers on the following projects:
 
 1. **Recipeasy**: This Flask web app was developed to encourage parents and children to make delicious dishes and learn about food. It has a recipe finder function and a quiz for children. It is written in OOP using the Flask framework and a MySQL database. It both calls on an external API and implements API endpoints for the MySQL database. Additionally, it incorporates logging and unit testing. [https://github.com/janethw/Recipeasy]
 
-2. **Library**: This console webapp is written in Python and connects to a MySQL database. The front-end is the user console, which allows users to search for books, check them out and return them. Link to follow.
+2. **Library**: This console app is written in Python and connects to a MySQL database. The front-end is the user console, which allows users to search for books, check them out and return them. Link to follow.
 
 3. **Quiz**: Quiz was my first collaborative build. It uses client-side technologies and is built with CodePen. [https://codepen.io/jaylgee/pen/vYPrxep]
 
