@@ -1,5 +1,3 @@
-# Under construction - links to follow
-
 ## Hi
 
 ## Let me introduce myself...
@@ -25,7 +23,7 @@ I worked collaboratively with fellow developers on the following projects:
 
 1. **Recipeasy**: This Flask web app was developed to encourage parents and children to make delicious dishes and learn about food. It has a recipe finder function and a quiz for children. It is written in OOP using the Flask framework and a MySQL database. It both calls on an external API and implements API endpoints for the MySQL database. Additionally, it incorporates logging and unit testing. [https://github.com/janethw/Recipeasy]
 
-2. **Library**: This console webapp is written in Python and connects to a MySQL database. The front-end is the user console, which allows users to search for books, check them out and return them.
+2. **Library**: This console webapp is written in Python and connects to a MySQL database. The front-end is the user console, which allows users to search for books, check them out and return them. Link to follow.
 
 3. **Quiz**: Quiz was my first collaborative build. It uses client-side technologies and built on CodePen. [https://codepen.io/jaylgee/pen/vYPrxep]
 
@@ -34,7 +32,7 @@ I was interested in machine learning and natural language processing and worked 
 
 1. **Genetic Algorith**: This project was set as an exercise in the Lazy Programmer Udemy Course. The task was to use a genetic algorithm for decryption. 
 
-2. **NLP Web Scraper**: This project is a web scraper, which was developed with the BeautifulSoup library.
+2. **NLP Web Scraper**: This project is a web scraper, which was developed with the BeautifulSoup library. [https://github.com/janethw/NLP_web_scraper]
 <!--
 **janethw/janethw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
