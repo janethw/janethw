@@ -23,7 +23,7 @@ I worked collaboratively with fellow developers on the following projects:
 
 2. **Library**: This console webapp is written in Python and connects to a MySQL database. The front-end is the user console, which allows users to search for books, check them out and return them. Link to follow.
 
-3. **Quiz**: Quiz was my first collaborative build. It uses client-side technologies and built on CodePen. [https://codepen.io/jaylgee/pen/vYPrxep]
+3. **Quiz**: Quiz was my first collaborative build. It uses client-side technologies and is built with CodePen. [https://codepen.io/jaylgee/pen/vYPrxep]
 
 ## Other Projects
 I was interested in machine learning and natural language processing and worked on the following projects. I've also done some other projects (not yet uploaded) using machine learning algorithms and neural networks on standard datasets; I found the Jason Brownlee e-books very helpful.
