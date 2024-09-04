@@ -1,6 +1,4 @@
-## Hi
-
-## Let me introduce myself...
+## Hi, let me introduce myself...
 
 I am a software engineer who recently completed a Code First Girls Software Degree along with various other courses including Harvard's CS50x and CS50 Artificial Intelligence with Python on EdX.
 
@@ -30,7 +28,7 @@ I worked collaboratively with fellow developers on the following projects:
 ## Other Projects
 I was interested in machine learning and natural language processing and worked on the following projects. I've also done some other projects (not yet uploaded) using machine learning algorithms and neural networks on standard datasets; I found the Jason Brownlee e-books very helpful.
 
-1. **Genetic Algorith**: This project was set as an exercise in the Lazy Programmer Udemy Course. The task was to use a genetic algorithm for decryption. 
+1. **Genetic Algorith**: This project was set as an exercise in the Lazy Programmer Udemy Course. The task was to use a genetic algorithm for decryption. [https://github.com/janethw/Genetic-algorithm-for-decryption]
 
 2. **NLP Web Scraper**: This project is a web scraper, which was developed with the BeautifulSoup library. [https://github.com/janethw/NLP_web_scraper]
 <!--
