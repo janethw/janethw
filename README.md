@@ -26,13 +26,12 @@ I worked collaboratively with fellow developers on the following projects:
 3. **Quiz**: Quiz was my first collaborative build. It uses client-side technologies and is built with CodePen. [https://codepen.io/jaylgee/pen/vYPrxep]
 
 ## Other Projects
-I was interested in machine learning and natural language processing and worked on the following projects. I've also done some other projects (not yet uploaded) using machine learning algorithms and neural networks on standard datasets; I found the Jason Brownlee e-books very helpful.
 
-1. **Genetic Algorith**: This project was set as an exercise in the Lazy Programmer Udemy Course. The task was to use a genetic algorithm for decryption. [https://github.com/janethw/Genetic-algorithm-for-decryption]
+1. **Genetic Algorith**: This project was set as an exercise in the Lazy Programmer Udemy Course. The task was to use a genetic algorithm for decryption of a text passage. [https://github.com/janethw/Genetic-algorithm-for-decryption]
 
-2. **NLP Web Scraper**: This project is a web scraper, which was developed with the BeautifulSoup library. [https://github.com/janethw/NLP_web_scraper]
+2. **NLP Web Scraper**: This project is a web scraper, which was developed with the BeautifulSoup library to scrape a news website. [https://github.com/janethw/NLP_web_scraper]
 
-3. **Splatter Art**: This CodePen project demonstrates client-side languages and gives you a chance to develop your own online masterpieces.[https://codepen.io/jaylgee/pen/MWRKNXK)]
+3. **Splatter Art**: This CodePen project demonstrates client-side languages and gives you a chance to develop your own online art masterpieces in seconds. [https://codepen.io/jaylgee/pen/MWRKNXK)]
 
 4. **Rock, Paper, Scissors... and More**: This console app extends the classic rock, paper, scissors game by calling on the RPS101 API. [https://github.com/janethw/rock_paper_scissors_...]
 <!--
