@@ -1,4 +1,4 @@
-## Hi, let me introduce myself...
+## Hi
 
 I am an aspiring software engineer who recently completed a Code First Girls Software Degree along with various other courses including Harvard's CS50x and CS50 Artificial Intelligence with Python on EdX.
 
