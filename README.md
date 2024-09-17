@@ -1,12 +1,6 @@
 ## Hi
 
-I am an aspiring software engineer who recently completed a Code First Girls Software Degree along with various other courses including Harvard's CS50x and CS50 Artificial Intelligence with Python on EdX.
-
-## About Me
-I discovered a love of software engineering when I set out to learn Python programming a few years ago. The concept of solving logical problems and understanding the systems and networks of our digital lives is what captivates me most about software engineering. While I haven't held a professional software engineering position, I have enjoyed working collaboratively with other developers and am continually working to build my skills and knowledge. 
-
 ## Skills
-I have gained knowledge of the following programming languages and tools:
 - Python
 - JavaScript
 - HTML/CSS
@@ -17,7 +11,6 @@ I have gained knowledge of the following programming languages and tools:
 - Cloud Fundamentals
 
 ## Collaborative Projects
-I worked collaboratively with fellow developers on the following projects:
 
 1. **Recipeasy**: This Flask web app was developed to encourage parents and children to make delicious dishes and learn about food. It has a recipe finder function and a quiz for children. It is written in OOP using the Flask framework and a MySQL database. It both calls on an external API and implements API endpoints for the MySQL database. Additionally, it incorporates logging and unit testing. [https://github.com/janethw/Recipeasy]
 
