@@ -26,7 +26,9 @@
 
 3. **Splatter Art**: This CodePen project demonstrates client-side languages and gives you a chance to develop your own online art masterpieces in seconds. [https://codepen.io/jaylgee/pen/MWRKNXK)]
 
-4. **Rock, Paper, Scissors... and More**: This console app extends the classic rock, paper, scissors game by calling on the RPS101 API. [https://github.com/janethw/rock_paper_scissors_...]
+4. **coins**: Console app (under construction) to calculate the minimum number of coins to achieve a target currency amount.
+
+5. **Rock, Paper, Scissors... and More**: This console app extends the classic rock, paper, scissors game by calling on the RPS101 API. [https://github.com/janethw/rock_paper_scissors_...]
 <!--
 **janethw/janethw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
