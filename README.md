@@ -16,7 +16,7 @@
 
 2. **Library**: This console app is written in Python and connects to a MySQL database. The front-end is the user console, which allows users to search for books, check them out and return them. Link to follow.
 
-3. **Quiz**: Quiz was my first collaborative build. It uses client-side technologies and is built with CodePen. [https://codepen.io/jaylgee/pen/vYPrxep]
+3. **Quiz**: Quiz was a collaborative build. It uses client-side technologies and is built with CodePen. [https://codepen.io/jaylgee/pen/vYPrxep]
 
 ## Other Projects
 
