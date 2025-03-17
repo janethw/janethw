@@ -2,6 +2,7 @@
 
 ## Skills
 - Python
+- C/C++
 - JavaScript
 - HTML/CSS
 - MySQL
