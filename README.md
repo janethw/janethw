@@ -30,6 +30,8 @@
 4. **Rock, Paper, Scissors... and More**: This console app extends the classic rock, paper, scissors game by calling on the RPS101 API. [https://github.com/janethw/rock_paper_scissors_....git]
 
 5. **coins**: Console app (under construction) to calculate the minimum number of coins to achieve a target currency amount.
+
+6. **cpp_adventure**: Mini console adventure game in C++. Using Googletest and CMake.
 <!--
 **janethw/janethw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
